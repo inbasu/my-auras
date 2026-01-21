@@ -1,0 +1,15 @@
+## Interface: 20505
+## Title: WeakAuras_Precompiled
+## Author: Inbasu
+## Version: 0.1
+
+init.lua
+
+fonts/CMR.ttf
+
+modules/FormatUtils.lua
+modules/SharedFont.lua
+
+auras/ExperienceTracker.lua
+auras/ManaTracker.lua
+auras/TargetFrame.lua
